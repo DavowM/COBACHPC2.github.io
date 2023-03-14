@@ -1,0 +1,27 @@
+h2 {
+   color:coral;
+    
+}
+#marcodocus {
+    float:right;
+    width:60%;
+    height:900px;
+}
+#textillo {
+    float:left;
+    width:30%;
+}
+p {
+    font-familY:CURSIVE;
+    
+}
+h2 {
+    font-family: cursive;
+}
+h3 {
+    font-family:cursive;
+    font-style: italic; 
+}
+li {
+    font-family:cursive;
+}

@@ -1,0 +1,32 @@
+#imageness{
+    display:inline-block;
+    width:50%;
+    float:left;
+    clear:both;
+}
+#textoo {
+    display:inline-block;
+    width:40%;
+    clear:both;
+    margin:10px;
+}
+
+# imagenescentro {
+    float:right;
+    display:inline-block;
+    clear:both;
+}
+p {
+    font-familY:CURSIVE;
+    
+}
+h2 {
+    font-family: cursive;
+}
+h3 {
+    font-family:cursive;
+    font-style: italic; 
+}
+li {
+    font-family:cursive;
+}
